@@ -1,7 +1,7 @@
 ---
 title: "Pilot Handbook for FPV racing drones"
 date: "2023-11-07T05:37:00.000Z"
-lastmod: "2024-01-03T12:48:00.000Z"
+lastmod: "2026-01-02T09:55:00.000Z"
 draft: false
 featuredImage: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?ix\
   lib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb"
@@ -14,7 +14,7 @@ NOTION_METADATA:
   object: "page"
   id: "d370a1d3-72c3-4027-875f-4f544906aeb7"
   created_time: "2023-11-07T05:37:00.000Z"
-  last_edited_time: "2024-01-03T12:48:00.000Z"
+  last_edited_time: "2026-01-02T09:55:00.000Z"
   created_by:
     object: "user"
     id: "4972c529-98aa-4bbe-9a23-e6d40c72186a"
@@ -29,8 +29,8 @@ NOTION_METADATA:
   icon: null
   parent:
     type: "data_source_id"
-    data_source_id: "4cc98478-9096-4765-aaa7-24c034221ea6"
-    database_id: "b8fa92ae-c4ab-40ad-93c2-25254e459397"
+    data_source_id: "2dcd7e7b-a9c3-810c-a11a-000b21157305"
+    database_id: "2dcd7e7b-a9c3-8127-9306-d3795ab1a4e7"
   archived: false
   in_trash: false
   is_locked: false
@@ -59,6 +59,10 @@ NOTION_METADATA:
       id: "nbY%3F"
       type: "multi_select"
       multi_select: []
+    Last edited time:
+      id: "vbGE"
+      type: "last_edited_time"
+      last_edited_time: "2026-01-02T09:55:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"

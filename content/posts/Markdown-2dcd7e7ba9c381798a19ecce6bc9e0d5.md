@@ -1,20 +1,19 @@
 ---
-title: "We’re Live"
-date: "2023-12-07T09:57:00.000Z"
-lastmod: "2023-12-15T09:56:00.000Z"
+title: "Markdown"
+date: "2026-01-02T09:53:00.000Z"
+lastmod: "2026-01-02T09:55:00.000Z"
 draft: true
 featuredImage: "https://www.notion.so/images/page-cover/woodcuts_1.jpg"
 series: []
-authors:
-  - "Arul Rajesh"
+authors: []
 custom-front-matter: "hello"
 tags: []
 categories: []
 NOTION_METADATA:
   object: "page"
-  id: "57968ced-b68f-4da0-b6e4-cfdeef729cab"
-  created_time: "2023-12-07T09:57:00.000Z"
-  last_edited_time: "2023-12-15T09:56:00.000Z"
+  id: "2dcd7e7b-a9c3-8179-8a19-ecce6bc9e0d5"
+  created_time: "2026-01-02T09:53:00.000Z"
+  last_edited_time: "2026-01-02T09:55:00.000Z"
   created_by:
     object: "user"
     id: "4972c529-98aa-4bbe-9a23-e6d40c72186a"
@@ -25,13 +24,11 @@ NOTION_METADATA:
     type: "external"
     external:
       url: "https://www.notion.so/images/page-cover/woodcuts_1.jpg"
-  icon:
-    type: "emoji"
-    emoji: "😍"
+  icon: null
   parent:
     type: "data_source_id"
-    data_source_id: "4cc98478-9096-4765-aaa7-24c034221ea6"
-    database_id: "b8fa92ae-c4ab-40ad-93c2-25254e459397"
+    data_source_id: "2dcd7e7b-a9c3-810c-a11a-000b21157305"
+    database_id: "2dcd7e7b-a9c3-8127-9306-d3795ab1a4e7"
   archived: false
   in_trash: false
   is_locked: false
@@ -49,13 +46,7 @@ NOTION_METADATA:
       type: "people"
       people:
         - object: "user"
-          id: "4972c529-98aa-4bbe-9a23-e6d40c72186a"
-          name: "Arul Rajesh"
-          avatar_url: "https://lh3.googleusercontent.com/a-/AOh14Gh5UA1KNFVo_XqyonpglWWGy\
-            hfds7WWIhVCK7rDXQM=s100"
-          type: "person"
-          person:
-            email: "arul.rajesh@gmail.com"
+          id: "657d1c71-eca5-475d-b9d3-3669efd38ab9"
     custom-front-matter:
       id: "c~kA"
       type: "rich_text"
@@ -81,6 +72,10 @@ NOTION_METADATA:
       id: "nbY%3F"
       type: "multi_select"
       multi_select: []
+    Last edited time:
+      id: "vbGE"
+      type: "last_edited_time"
+      last_edited_time: "2026-01-02T09:55:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
@@ -91,7 +86,7 @@ NOTION_METADATA:
       title:
         - type: "text"
           text:
-            content: "We’re Live"
+            content: "Markdown"
             link: null
           annotations:
             bold: false
@@ -100,9 +95,9 @@ NOTION_METADATA:
             underline: false
             code: false
             color: "default"
-          plain_text: "We’re Live"
+          plain_text: "Markdown"
           href: null
-  url: "https://www.notion.so/We-re-Live-57968cedb68f4da0b6e4cfdeef729cab"
+  url: "https://www.notion.so/Markdown-2dcd7e7ba9c381798a19ecce6bc9e0d5"
   public_url: null
 MANAGED_BY_NOTION_HUGO: true
 
@@ -211,22 +206,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sagittis commodo mau
 ## Mentions
 
 
-@2022-09-03 
+@2022-09-03T00:00:00.000+01:00 -> 2022-09-21T02:00:00.000+01:00 
 
 
- 
+Hello !
 
 
-[We’re Live]({{% relref "We’re-Live-57968cedb68f4da0b6e4cfdeef729cab.md" %}}) 
-
-
----
-
-
-## Inline equation
-
-
-\(\KaTeX\)
+[Markdown]({{% relref "Markdown-2dcd7e7ba9c381798a19ecce6bc9e0d5.md" %}}) 
 
 
 ---
@@ -238,7 +224,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sagittis commodo mau
 ### Internal
 
 
-![](https://notion-hugo.pages.dev/api?block_id=718d38ba-d72c-4989-8c54-3c47cc2a1324)
+![](https://notion-hugo.pages.dev/api?block_id=2dcd7e7b-a9c3-818d-9086-dc288c253629)
 
 
 ### External
@@ -253,7 +239,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sagittis commodo mau
 ## Bookmark
 
 
-[https://notion.hugodoit.com](https://notion.hugodoit.com)
+[DoIt](https://notion.hugodoit.com)
 
 
 ---
@@ -262,13 +248,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sagittis commodo mau
 ## Video
 
 
+File
+
+
 <video controls style="height:auto;width:100%;">
-  <source src="https://notion-hugo.pages.dev/api?block_id=d178c694-a0f4-4201-8547-818a490d011f">
+  <source src="https://notion-hugo.pages.dev/api?block_id=2dcd7e7b-a9c3-81b6-a191-cbcef2559754">
   <p>
     Your browser does not support HTML5 video. Here is a
-    <a href="https://notion-hugo.pages.dev/api?block_id=d178c694-a0f4-4201-8547-818a490d011f" download="https://notion-hugo.pages.dev/api?block_id=d178c694-a0f4-4201-8547-818a490d011f">link to the video</a> instead.
+    <a href="https://notion-hugo.pages.dev/api?block_id=2dcd7e7b-a9c3-81b6-a191-cbcef2559754" download="https://notion-hugo.pages.dev/api?block_id=2dcd7e7b-a9c3-81b6-a191-cbcef2559754">link to the video</a> instead.
   </p>
 </video>
+
+
+YouTube
+
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/a0YrCABCOEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
@@ -277,7 +272,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sagittis commodo mau
 ## Audio
 
 
-<audio controls src="https://notion-hugo.pages.dev/api?block_id=f5199670-5374-40e2-a3f4-da1b71d7f9bb"></audio>
+<audio controls src="https://notion-hugo.pages.dev/api?block_id=2dcd7e7b-a9c3-8195-a454-fa8e02fcc3c7"></audio>
 
 
 ---
@@ -298,10 +293,16 @@ int main() {
 ---
 
 
+## PDF
+
+
+<embed src="https://notion-hugo.pages.dev/api?block_id=2dcd7e7b-a9c3-81be-a52e-e65bd2310fae" type="application/pdf" style="width: 100%;aspect-ratio: 2/3;height: auto;" />
+
+
 ## File
 
 
-[Living-Guide.pdf](https://notion-hugo.pages.dev/api?block_id=261c86c5-dcfe-4213-a057-618f55af3216)
+[Living-Guide.pdf](https://notion-hugo.pages.dev/api?block_id=2dcd7e7b-a9c3-8199-89b7-d1b769de6a46)
 
 
 ---
@@ -311,4 +312,25 @@ int main() {
 graph TD
   Mermaid --> Diagram
 ```
+
+
+## Embed
+
+
+[https://twitter.com/NoContextBrits/status/1561790234811146243](https://twitter.com/NoContextBrits/status/1561790234811146243)
+
+
+[https://github.com/](https://github.com/)
+
+
+## Maths
+
+
+Inline maths equation: \(c = \pm\sqrt{a^2 + b^2}\)
+
+
+Block maths equation:
+
+
+\[c = \pm\sqrt{a^2 + b^2}\]
 

@@ -1,15 +1,15 @@
 ---
 title: "About"
-date: "2023-12-07T09:57:00.000Z"
-lastmod: "2023-12-07T09:57:00.000Z"
+date: "2026-01-02T09:53:00.000Z"
+lastmod: "2026-01-02T09:53:00.000Z"
 draft: false
 authors:
   - "Arul Rajesh"
 NOTION_METADATA:
   object: "page"
-  id: "1ffe3709-1069-4c1f-b127-db8c455dff12"
-  created_time: "2023-12-07T09:57:00.000Z"
-  last_edited_time: "2023-12-07T09:57:00.000Z"
+  id: "2dcd7e7b-a9c3-812f-aca8-f89a3cd5f835"
+  created_time: "2026-01-02T09:53:00.000Z"
+  last_edited_time: "2026-01-02T09:53:00.000Z"
   created_by:
     object: "user"
     id: "4972c529-98aa-4bbe-9a23-e6d40c72186a"
@@ -20,7 +20,7 @@ NOTION_METADATA:
   icon: null
   parent:
     type: "page_id"
-    page_id: "0a6ad331-b7e5-483d-b330-9c7e5e31dba6"
+    page_id: "2dcd7e7b-a9c3-81b6-9736-dd7c25dbfbeb"
   archived: false
   in_trash: false
   is_locked: false
@@ -42,9 +42,9 @@ NOTION_METADATA:
             color: "default"
           plain_text: "About"
           href: null
-  url: "https://www.notion.so/About-1ffe370910694c1fb127db8c455dff12"
+  url: "https://www.notion.so/About-2dcd7e7ba9c3812faca8f89a3cd5f835"
   public_url: null
-  request_id: "9b1fba41-800e-45be-88a1-2dbaa91a7715"
+  request_id: "5d32d110-0212-4b73-90d7-6b04581423d6"
 MANAGED_BY_NOTION_HUGO: true
 
 ---
@@ -59,14 +59,13 @@ MANAGED_BY_NOTION_HUGO: true
 
 ### Performance and SEO
 
-- :(fas fa-rocket fa-fw): Optimized for **performance**: [99]/[100] on mobile and [100]/[100] on desktop in [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)
-- :(fas fa-space-shuttle fa-fw): **PJAX** loading supported
-- :(fab fa-searchengin fa-fw): Optimized SEO performance with a correct **SEO SCHEMA** based on JSON-LD
-- :(fab fa-google fa-fw): [**Google Analytics**](https://analytics.google.com/analytics) supported
-- :(far fa-chart-bar fa-fw): [**Fathom Analytics**](https://usefathom.com/) supported
-- :(far fa-chart-bar fa-fw): [**Baidu Analytics**](https://tongji.baidu.com/) supported
-- :(far fa-chart-bar fa-fw): [**Umami Analytics**](https://umami.is/) supported
-- :(far fa-chart-bar fa-fw): [**Plausible Analytics**](https://plausible.io/) supported
+- 🚀 Optimized for **performance**: [99]/[100] on mobile and [100]/[100] on desktop in [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)
+- 🔍 Optimized SEO performance with a correct **SEO SCHEMA** based on JSON-LD
+- 📈 [**Google Analytics**](https://analytics.google.com/analytics) supported
+- 📈 [**Fathom Analytics**](https://usefathom.com/) supported
+- 📈 [**Baidu Analytics**](https://tongji.baidu.com/) supported
+- 📈 [**Umami Analytics**](https://umami.is/) supported
+- 📈 [**Plausible Analytics**](https://plausible.io/) supported
 - :(fas fa-search fa-fw): Search engine **verification** supported (Google, Bind, Yandex and Baidu)
 - :(fas fa-tachometer-alt fa-fw): **CDN** for third-party libraries supported
 - :(fas fa-cloud-download-alt fa-fw): Automatically converted images with **Lazy Load** by [lazysizes](https://github.com/aFarkas/lazysizes)
@@ -164,3 +163,27 @@ Thanks to the authors of following resources included in the theme:
 - [Pjax](https://github.com/PaperStrike/Pjax)
 - [Topbar](https://github.com/buunguyen/topbar)
 - [Remark42](https://remark42.com/)
+
+[Test Child Page](2dcd7e7b-a9c3-8174-b072-e792a8f95c32)
+
+
+	## How I am feeling today
+
+
+	...
+
+
+	## What’s on my mind
+
+	- ...
+	- ...
+	- ...
+
+	## Positive affirmation
+
+
+	> ☀️ ...
+
+
+	@2024-05-30 -> 2024-05-31 
+
