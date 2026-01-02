@@ -4,7 +4,7 @@ const userConfig: UserConfig = {
     base_url: "https://notion-hugo.pages.dev",
     mount: {
         manual: false,
-        page_url: 'https://www.notion.so/fpvindia/Notion-DoIt-0a6ad331b7e5483db3309c7e5e31dba6?source=copy_link',
+        page_url: 'https://www.notion.so/fpvindia/Learn-2dcd7e7ba9c381b69736dd7c25dbfbeb',
         pages: [
             // {
             //     page_id: '<page_id>',
