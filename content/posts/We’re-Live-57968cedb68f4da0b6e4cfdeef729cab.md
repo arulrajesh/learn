@@ -1,36 +1,40 @@
 ---
-title: "Markdown"
-date: "2022-09-02T18:27:00.000Z"
-lastmod: "2024-12-20T17:56:00.000Z"
-draft: false
+title: "We’re Live"
+date: "2023-12-07T09:57:00.000Z"
+lastmod: "2023-12-15T09:56:00.000Z"
+draft: true
 featuredImage: "https://www.notion.so/images/page-cover/woodcuts_1.jpg"
 series: []
 authors:
-  - "PCloud"
+  - "Arul Rajesh"
 custom-front-matter: "hello"
 tags: []
 categories: []
 NOTION_METADATA:
   object: "page"
-  id: "33dbd8d9-65f7-4930-a804-b8b50f375cbb"
-  created_time: "2022-09-02T18:27:00.000Z"
-  last_edited_time: "2024-12-20T17:56:00.000Z"
+  id: "57968ced-b68f-4da0-b6e4-cfdeef729cab"
+  created_time: "2023-12-07T09:57:00.000Z"
+  last_edited_time: "2023-12-15T09:56:00.000Z"
   created_by:
     object: "user"
-    id: "657d1c71-eca5-475d-b9d3-3669efd38ab9"
+    id: "4972c529-98aa-4bbe-9a23-e6d40c72186a"
   last_edited_by:
     object: "user"
-    id: "657d1c71-eca5-475d-b9d3-3669efd38ab9"
+    id: "4972c529-98aa-4bbe-9a23-e6d40c72186a"
   cover:
     type: "external"
     external:
       url: "https://www.notion.so/images/page-cover/woodcuts_1.jpg"
-  icon: null
+  icon:
+    type: "emoji"
+    emoji: "😍"
   parent:
-    type: "database_id"
-    database_id: "b7b1816c-05ec-4643-91c8-c111fa242985"
+    type: "data_source_id"
+    data_source_id: "4cc98478-9096-4765-aaa7-24c034221ea6"
+    database_id: "b8fa92ae-c4ab-40ad-93c2-25254e459397"
   archived: false
   in_trash: false
+  is_locked: false
   properties:
     series:
       id: "B%3C%3FS"
@@ -39,18 +43,19 @@ NOTION_METADATA:
     draft:
       id: "JiWU"
       type: "checkbox"
-      checkbox: false
+      checkbox: true
     authors:
       id: "bK%3B%5B"
       type: "people"
       people:
         - object: "user"
-          id: "657d1c71-eca5-475d-b9d3-3669efd38ab9"
-          name: "PCloud"
-          avatar_url: "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1a0f7d\
-            04-9a04-49c9-9ac2-670b2bf4e33c/IMG_0309.jpg"
+          id: "4972c529-98aa-4bbe-9a23-e6d40c72186a"
+          name: "Arul Rajesh"
+          avatar_url: "https://lh3.googleusercontent.com/a-/AOh14Gh5UA1KNFVo_XqyonpglWWGy\
+            hfds7WWIhVCK7rDXQM=s100"
           type: "person"
-          person: {}
+          person:
+            email: "arul.rajesh@gmail.com"
     custom-front-matter:
       id: "c~kA"
       type: "rich_text"
@@ -76,10 +81,6 @@ NOTION_METADATA:
       id: "nbY%3F"
       type: "multi_select"
       multi_select: []
-    Last edited time:
-      id: "vbGE"
-      type: "last_edited_time"
-      last_edited_time: "2024-12-20T17:56:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
@@ -90,7 +91,7 @@ NOTION_METADATA:
       title:
         - type: "text"
           text:
-            content: "Markdown"
+            content: "We’re Live"
             link: null
           annotations:
             bold: false
@@ -99,10 +100,10 @@ NOTION_METADATA:
             underline: false
             code: false
             color: "default"
-          plain_text: "Markdown"
+          plain_text: "We’re Live"
           href: null
-  url: "https://www.notion.so/Markdown-33dbd8d965f74930a804b8b50f375cbb"
-  public_url: "https://pcloud.notion.site/Markdown-33dbd8d965f74930a804b8b50f375cbb"
+  url: "https://www.notion.so/We-re-Live-57968cedb68f4da0b6e4cfdeef729cab"
+  public_url: null
 MANAGED_BY_NOTION_HUGO: true
 
 ---
@@ -210,13 +211,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sagittis commodo mau
 ## Mentions
 
 
-@2022-09-03T00:00:00.000+01:00 -> 2022-09-21T02:00:00.000+01:00 
+@2022-09-03 
 
 
-Hello @PCloud!
+ 
 
 
-[Markdown]({{% relref "Markdown-33dbd8d965f74930a804b8b50f375cbb.md" %}}) 
+[We’re Live]({{% relref "We’re-Live-57968cedb68f4da0b6e4cfdeef729cab.md" %}}) 
+
+
+---
+
+
+## Inline equation
+
+
+\(\KaTeX\)
 
 
 ---
@@ -228,7 +238,7 @@ Hello @PCloud!
 ### Internal
 
 
-![](https://notion-hugo.pages.dev/api?block_id=8ea45705-f812-4bdc-a9b3-079730199436)
+![](https://notion-hugo.pages.dev/api?block_id=718d38ba-d72c-4989-8c54-3c47cc2a1324)
 
 
 ### External
@@ -243,7 +253,7 @@ Hello @PCloud!
 ## Bookmark
 
 
-[DoIt](https://notion.hugodoit.com)
+[https://notion.hugodoit.com](https://notion.hugodoit.com)
 
 
 ---
@@ -252,22 +262,13 @@ Hello @PCloud!
 ## Video
 
 
-File
-
-
 <video controls style="height:auto;width:100%;">
-  <source src="https://notion-hugo.pages.dev/api?block_id=666aae5b-9e73-44b4-b2f0-a4933e16bc88">
+  <source src="https://notion-hugo.pages.dev/api?block_id=d178c694-a0f4-4201-8547-818a490d011f">
   <p>
     Your browser does not support HTML5 video. Here is a
-    <a href="https://notion-hugo.pages.dev/api?block_id=666aae5b-9e73-44b4-b2f0-a4933e16bc88" download="https://notion-hugo.pages.dev/api?block_id=666aae5b-9e73-44b4-b2f0-a4933e16bc88">link to the video</a> instead.
+    <a href="https://notion-hugo.pages.dev/api?block_id=d178c694-a0f4-4201-8547-818a490d011f" download="https://notion-hugo.pages.dev/api?block_id=d178c694-a0f4-4201-8547-818a490d011f">link to the video</a> instead.
   </p>
 </video>
-
-
-YouTube
-
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/a0YrCABCOEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
@@ -276,7 +277,7 @@ YouTube
 ## Audio
 
 
-<audio controls src="https://notion-hugo.pages.dev/api?block_id=1f7cdc13-5883-4349-b6c2-a9310f9a589e"></audio>
+<audio controls src="https://notion-hugo.pages.dev/api?block_id=f5199670-5374-40e2-a3f4-da1b71d7f9bb"></audio>
 
 
 ---
@@ -297,16 +298,10 @@ int main() {
 ---
 
 
-## PDF
-
-
-<embed src="https://notion-hugo.pages.dev/api?block_id=3cb3a09f-e4dd-4ea3-b93d-40e497ace6d4" type="application/pdf" style="width: 100%;aspect-ratio: 2/3;height: auto;" />
-
-
 ## File
 
 
-[Living-Guide.pdf](https://notion-hugo.pages.dev/api?block_id=72338466-bf1f-4670-926b-4a0796a7b4df)
+[Living-Guide.pdf](https://notion-hugo.pages.dev/api?block_id=261c86c5-dcfe-4213-a057-618f55af3216)
 
 
 ---
@@ -316,25 +311,4 @@ int main() {
 graph TD
   Mermaid --> Diagram
 ```
-
-
-## Embed
-
-
-[https://twitter.com/NoContextBrits/status/1561790234811146243](https://twitter.com/NoContextBrits/status/1561790234811146243)
-
-
-[https://github.com/](https://github.com/)
-
-
-## Maths
-
-
-Inline maths equation: \(c = \pm\sqrt{a^2 + b^2}\)
-
-
-Block maths equation:
-
-
-\[c = \pm\sqrt{a^2 + b^2}\]
 
